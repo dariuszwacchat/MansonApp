@@ -14,7 +14,7 @@ namespace ConsoleApp9
         {
             Console.WriteLine(a - b);
             Console.WriteLine(a - b);
-            SSSSSSSSSSSSSSSSSSSSSSSSSSSSs
+            SSSSSSSSSSSSSSSSSSSSSSSSSSSSsss
         }
         public static void Dodawanie(int a, int b)
         {
