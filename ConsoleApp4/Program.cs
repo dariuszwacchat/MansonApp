@@ -13,6 +13,7 @@ namespace ConsoleApp9
         public static void metodaDoDelegata(int a, int b)
         {
             Console.WriteLine(a - b);
+            Console.WriteLine(a - b);
         }
         public static void Dodawanie(int a, int b)
         {
